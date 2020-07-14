@@ -8,7 +8,6 @@
 
 - learning now [Flutter](https://flutter.dev) <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="30px">
 
-<img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = "90px">
 
 ### Technologies
  
