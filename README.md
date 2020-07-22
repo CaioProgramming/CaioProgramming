@@ -1,4 +1,4 @@
-###   <img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" width="50px"> Hi there I'm Caio Alves Ferreira, an enthusiast mobile developer.
+### Hi there I'm Caio Alves Ferreira, an enthusiast mobile developer.
 
 - 2nd year systems information at [Unip](https://unip.br)<img src="https://media.giphy.com/media/mC6p4Ikpj6KallrWxr/giphy.gif" width="30px">
 
