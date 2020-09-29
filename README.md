@@ -2,7 +2,7 @@
 
 - 2nd year systems information at [Unip](https://unip.br)<img src="https://media.giphy.com/media/mC6p4Ikpj6KallrWxr/giphy.gif" width="30px">
 
-- Currently workin at [BRQ](http://www.brq.com/) <img src="https://media.giphy.com/media/lp6ZqyHa5z3v9FasLj/giphy.gif" width="30px"> 
+- Currently working at [BRQ](http://www.brq.com/) <img src="https://media.giphy.com/media/lp6ZqyHa5z3v9FasLj/giphy.gif" width="30px"> 
 
 - My favorite project [Motiv](https://github.com/CaioProgramming/Motiv)<img src="https://media.giphy.com/media/26DMXP3WqZ5HGXYVq/giphy.gif" width="30px"> 
 
