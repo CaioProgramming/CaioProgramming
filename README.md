@@ -1,5 +1,7 @@
 ### Hi there I'm Caio Alves Ferreira, an enthusiast mobile developer.
 
+### Resume
+ 
 - 2nd year systems information at [Unip](https://unip.br)<img src="https://media.giphy.com/media/mC6p4Ikpj6KallrWxr/giphy.gif" width="30px">
 
 - Currently working at [BRQ](http://www.brq.com/) <img src="https://media.giphy.com/media/lp6ZqyHa5z3v9FasLj/giphy.gif" width="30px"> 
@@ -10,10 +12,11 @@
 
 
 ### Technologies
+ <p align="center">
+    <p><img src="https://img.shields.io/badge/-Kotlin-FE7A16?style=plastic&logo=Kotlin&logoColor=white"/></p>
+    <p><img src="https://img.shields.io/badge/-Flutter-blue?style=plastic&logo=Flutter&logoColor=white"/></p>
+    <p><img src="https://img.shields.io/badge/-Java-white?style=plastic&logo=Java&logoColor=orange"/></p>
+    <p><img src="https://img.shields.io/badge/-Swift-white?style=plastic&logo=Swift&logoColor=orange"/></p>
+    <p><img src="https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=black"/></p>
+ </p>
  
- - <img src="https://cdn.svgporn.com/logos/flutter.svg" width="20px"> Flutter
- - <img src="https://cdn.svgporn.com/logos/kotlin.svg" width="20px"> Kotlin
- - <img src="https://cdn.svgporn.com/logos/java.svg" width="20px"> Java
- - <img src="https://cdn.svgporn.com/logos/swift.svg" width="20px"> Swift
- - <img src="https://cdn.svgporn.com/logos/javascript.svg" width="20px"> Javascript
- - <img src="https://cdn.svgporn.com/logos/c-sharp.svg" width="20px"> C#
