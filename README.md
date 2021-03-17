@@ -9,7 +9,7 @@
 - My favorite project [Motiv](https://github.com/CaioProgramming/Motiv)<img src="https://media.giphy.com/media/26DMXP3WqZ5HGXYVq/giphy.gif" width="30px"> 
 
 - learning now [Flutter](https://flutter.dev) <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="30px">
-- Have you seen my design system [Ilustris](https://github.com/CaioProgramming/Ilustris)
+- Have you seen my own library? [Ilustris](https://github.com/CaioProgramming/Ilustris)
 
 
 ### Technologies
