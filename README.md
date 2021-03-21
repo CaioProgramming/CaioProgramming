@@ -13,11 +13,16 @@
 
 
 ### Technologies
+<h4>
+ <img src="https://cdn.svgporn.com/logos/kotlin.svg" width="100" height="100"/>
+ <img src="https://cdn.svgporn.com/logos/flutter.svg"  width="100" height="100"/>
+ <br>
+ <img src="https://cdn.svgporn.com/logos/java.svg"  width="100" height="100"/>
+ <img src="https://cdn.svgporn.com/logos/swift.svg"  width="100" height="100"/>
+ <br>
+ <img src="https://cdn.svgporn.com/logos/javascript.svg"  width="100" height="100"/>
+ <img src= "https://cdn.svgporn.com/logos/c-sharp.svg"  width="100" height="100"/>
+</h4>
 
- <img src="https://img.shields.io/badge/-Kotlin-FE7A16?style=flat&logo=Kotlin&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=Flutter&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Java-white?style=flat&logo=Java&logoColor=orange"/>
- <img src="https://img.shields.io/badge/-Swift-white?style=flat&logo=Swift&logoColor=orange"/>
- <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&logoColor=yellow"/>
 
  
