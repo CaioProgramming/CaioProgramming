@@ -1,7 +1,7 @@
 <h1 align="left">Hi, there I'm Caio Alves Ferreira, an enthusiast mobile developer.</h1>
 
 ###
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/caiosinhu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=caiosinhu" alt="Spotify recently played"  />
   </a>
