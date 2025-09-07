@@ -3,7 +3,7 @@
 
 
 ###
-<h3 align="left">Android developer at BRQ Digital systems.</h3>
+<h3 align="left">Android developer at Invillia.</h3>
 
 ###
 <p align="left">IT Systems graduate</p>
